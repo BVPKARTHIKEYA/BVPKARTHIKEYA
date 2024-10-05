@@ -21,7 +21,8 @@ I am a passionate web developer and programmer actively working on web developme
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BVPKARTHIKEYA&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=BVPKARTHIKEYA&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=BVPKARTHIKEYA&label=Profile%20Views&pretty=false" />
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
