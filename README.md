@@ -24,7 +24,7 @@ I am a passionate web developer and programmer actively working on web developme
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=BVPKARTHIKEYA&label=Profile%20Views&pretty=false" />
 </a>
-![Visitor Count](https://profile-counter.glitch.me/BVPKARTHIKEYA}/count.svg)
+![](https://komarev.com/ghpvc/?username=BVPKARTHIKEYA&base=0)
 
 
 
