@@ -10,13 +10,13 @@
 
 ---
 
-- 🔭 I’m currently working on **Web Development & Data Science Projects**
+- 🔭 I’m currently working on **Web Development & Machine Learning Projects**
 - 🌱 I’m currently learning **Angular, Spring Boot, and MySQL**
 - 💬 Ask me about **Frontend, C++, Java, Python, and Databases**
 - 📫 How to reach me:
   - <a href="https://www.linkedin.com/in/your-linkedin-id"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   - <a href="https://twitter.com/your-twitter-id"><img src="https://img.shields.io/twitter/follow/your-twitter-id?logo=twitter&style=for-the-badge" /></a>
-- 🔗 My Linktree: [linktr.ee/yourname](https://linktr.ee/yourname)
+
 - 💻 I love attending tech events, hackathons, and building cool stuff!
 
 ---
